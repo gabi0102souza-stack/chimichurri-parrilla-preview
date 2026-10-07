@@ -48,7 +48,7 @@ Uma execução na URL pública em Chrome, viewport 390px, rede simulada com RTT 
 
 São medidas de laboratório de uma execução, não dados de usuários reais nem pontuação Lighthouse. Reutilização das medidas após a inclusão de horários/cardápio é limitada ao hero e recursos iniciais, que não mudaram.
 
-Evidências: `docs/qa/public-qa.json`, `docs/qa/performance-links.json` e `docs/qa/link-clicks.json`. Capturas completas em `.work/`, não enviadas ao Git.
+Evidências: `docs/qa/final-qa.json` (reteste da versão bd7f3c1 após horários e cardápio), `docs/qa/public-qa.json`, `docs/qa/performance-links.json` e `docs/qa/link-clicks.json`. Capturas completas em `.work/`, não enviadas ao Git.
 
 ## Limites
 
