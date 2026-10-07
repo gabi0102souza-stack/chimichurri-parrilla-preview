@@ -2,8 +2,8 @@
 
 Website estático para prospecção comercial. Conceito independente desenvolvido para apresentação; não aprovado pelo restaurante.
 
-- Publicação prevista: https://gabi0102souza-stack.github.io/chimichurri-parrilla-preview/
-- Repositório previsto: https://github.com/gabi0102souza-stack/chimichurri-parrilla-preview
+- URL pública: https://gabi0102souza-stack.github.io/chimichurri-parrilla-preview/
+- Repositório: https://github.com/gabi0102souza-stack/chimichurri-parrilla-preview
 - Branch de publicação: `main`, pasta raiz, GitHub Pages.
 - HTML, CSS e JavaScript nativos. Sem framework, build obrigatório, cookies próprios, analytics, formulários ou biblioteca no navegador.
 - Fotos reais identificadas na imprensa. Fontes Anton e DM Sans locais, com licenças SIL OFL incluídas.

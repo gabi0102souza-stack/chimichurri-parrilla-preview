@@ -1,0 +1,342 @@
+{
+  "base": "https://gabi0102souza-stack.github.io/chimichurri-parrilla-preview/",
+  "checkedAt": "2026-10-07T21:35:02.315Z",
+  "results": [
+    {
+      "width": 1440,
+      "height": 1000,
+      "status": 200,
+      "errors": [],
+      "failures": [],
+      "title": "Chimichurri Parrilla | Brasa e mesa em Perdizes",
+      "viewport": 1440,
+      "scrollWidth": 1440,
+      "overflowing": [],
+      "images": [
+        {
+          "src": "brasa-1440.avif",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "cortes-480.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "empanadas-480.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "choripan-480.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "burger-750.avif",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "casa-844.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "fonts": {
+        "anton": true,
+        "dm": true
+      },
+      "missingAnchors": [],
+      "robots": "noindex, nofollow",
+      "mobileActions": [
+        {
+          "text": "Fila",
+          "height": 0,
+          "width": 0
+        },
+        {
+          "text": "Horários",
+          "height": 0,
+          "width": 0
+        },
+        {
+          "text": "Cardápio",
+          "height": 0,
+          "width": 0
+        },
+        {
+          "text": "Chegar",
+          "height": 0,
+          "width": 0
+        },
+        {
+          "text": "Instagram",
+          "height": 0,
+          "width": 0
+        }
+      ],
+      "htmlLang": "pt-BR",
+      "h1s": 1,
+      "desktopAnchor": true,
+      "firstKeyboardFocus": "Pular para o conteúdo",
+      "visibleKeyboardOutline": true,
+      "reducedMotion": true,
+      "zoomOverflow": false
+    },
+    {
+      "width": 360,
+      "height": 800,
+      "status": 200,
+      "errors": [],
+      "failures": [],
+      "title": "Chimichurri Parrilla | Brasa e mesa em Perdizes",
+      "viewport": 360,
+      "scrollWidth": 360,
+      "overflowing": [],
+      "images": [
+        {
+          "src": "brasa-720.avif",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "cortes-480.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "empanadas-480.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "choripan-480.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "burger-480.avif",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "casa-480.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "fonts": {
+        "anton": true,
+        "dm": true
+      },
+      "missingAnchors": [],
+      "robots": "noindex, nofollow",
+      "mobileActions": [
+        {
+          "text": "Fila",
+          "height": 60,
+          "width": 72
+        },
+        {
+          "text": "Horários",
+          "height": 60,
+          "width": 72
+        },
+        {
+          "text": "Cardápio",
+          "height": 60,
+          "width": 72
+        },
+        {
+          "text": "Chegar",
+          "height": 60,
+          "width": 72
+        },
+        {
+          "text": "Instagram",
+          "height": 60,
+          "width": 72
+        }
+      ],
+      "htmlLang": "pt-BR",
+      "h1s": 1,
+      "mobileNavOpen": true,
+      "mobileNavClosed": true,
+      "escapeCloses": true,
+      "firstKeyboardFocus": "Pular para o conteúdo",
+      "visibleKeyboardOutline": true,
+      "reducedMotion": true,
+      "zoomOverflow": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "errors": [],
+      "failures": [],
+      "title": "Chimichurri Parrilla | Brasa e mesa em Perdizes",
+      "viewport": 390,
+      "scrollWidth": 390,
+      "overflowing": [],
+      "images": [
+        {
+          "src": "brasa-720.avif",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "cortes-480.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "empanadas-480.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "choripan-480.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "burger-480.avif",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "casa-480.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "fonts": {
+        "anton": true,
+        "dm": true
+      },
+      "missingAnchors": [],
+      "robots": "noindex, nofollow",
+      "mobileActions": [
+        {
+          "text": "Fila",
+          "height": 60,
+          "width": 78
+        },
+        {
+          "text": "Horários",
+          "height": 60,
+          "width": 78
+        },
+        {
+          "text": "Cardápio",
+          "height": 60,
+          "width": 78
+        },
+        {
+          "text": "Chegar",
+          "height": 60,
+          "width": 78
+        },
+        {
+          "text": "Instagram",
+          "height": 60,
+          "width": 78
+        }
+      ],
+      "htmlLang": "pt-BR",
+      "h1s": 1,
+      "mobileNavOpen": true,
+      "mobileNavClosed": true,
+      "escapeCloses": true,
+      "firstKeyboardFocus": "Pular para o conteúdo",
+      "visibleKeyboardOutline": true,
+      "reducedMotion": true,
+      "zoomOverflow": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "status": 200,
+      "errors": [],
+      "failures": [],
+      "title": "Chimichurri Parrilla | Brasa e mesa em Perdizes",
+      "viewport": 768,
+      "scrollWidth": 768,
+      "overflowing": [],
+      "images": [
+        {
+          "src": "brasa-1440.avif",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "cortes-480.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "empanadas-480.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "choripan-480.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "burger-750.avif",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "casa-480.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "fonts": {
+        "anton": true,
+        "dm": true
+      },
+      "missingAnchors": [],
+      "robots": "noindex, nofollow",
+      "mobileActions": [
+        {
+          "text": "Fila",
+          "height": 0,
+          "width": 0
+        },
+        {
+          "text": "Horários",
+          "height": 0,
+          "width": 0
+        },
+        {
+          "text": "Cardápio",
+          "height": 0,
+          "width": 0
+        },
+        {
+          "text": "Chegar",
+          "height": 0,
+          "width": 0
+        },
+        {
+          "text": "Instagram",
+          "height": 0,
+          "width": 0
+        }
+      ],
+      "htmlLang": "pt-BR",
+      "h1s": 1,
+      "desktopAnchor": true,
+      "firstKeyboardFocus": "Pular para o conteúdo",
+      "visibleKeyboardOutline": true,
+      "reducedMotion": true,
+      "zoomOverflow": false
+    }
+  ]
+}

@@ -24,7 +24,7 @@ INFERENCE: a rápida pesquisa pelo nome, endereço e canais encontrou Linktree, 
 | [VEJA SP: sanduíches e delivery](https://vejasp.abril.com.br/coluna/notas-etilicas/hamburguer-bar-delivery/) | 05/03/2021; atualização de página em 2026 | VERIFIED apenas como procedência da foto histórica do hambúrguer. Não usada para afirmar delivery atual. |
 | [Restaurant Guru](https://restaurantguru.com/Chimichurri-Parrilla-Sao-Paulo) | Página consultada em 2026 | Fonte auxiliar: telefone e divergências operacionais. Não usada como fonte final de delivery, reservas, acessibilidade ou menu. |
 
-O Instagram não pôde ser lido integralmente pelo acesso disponível. Sua URL e relação com a casa foram confirmadas por canais oficiais cruzados. Não foram enviados DMs, e-mails, chamadas, dados de fila ou pedidos.
+Na QA final, a página pública do Instagram abriu no Chrome e confirmou a identidade, os horários visíveis de terça a sábado e links de destaques oficiais. A leitura inicial pelo buscador falhou. A biografia completa e os stories são limitados por um convite de login; não houve tentativa de contornar o acesso. Não foram enviados DMs, e-mails, chamadas, dados de fila ou pedidos.
 
 ## VERIFIED: produtos e história encontrados
 
@@ -36,14 +36,18 @@ Vacio aparece em relatos de clientes e materiais anteriores, mas não teve confi
 
 ## NEEDS OWNER CONFIRMATION: operação
 
-- Horários: a configuração da fila apresenta segunda-feira 18h–23h e domingo 12h–17h. A VEJA de 2026 informa segunda fechada e domingo 12h30–17h; também diverge quanto ao intervalo de sábado. Não publicamos tabela como confirmada, indicador de aberto agora ou promessa de atendimento. O site orienta contato antes da visita.
+- Horários de domingo, segunda e feriados: a configuração da fila apresenta segunda-feira 18h–23h e domingo 12h–17h. A VEJA de 2026 informa segunda fechada e domingo 12h30–17h. A biografia oficial legível confirma terça a quinta 12h–15h30 e 18h–23h; sexta 12h–23h; sábado 12h30–23h. Só esses dias aparecem na tabela publicada, com atribuição ao Instagram. Não há indicador de aberto agora nem promessa de horário em feriados.
 - O endereço da configuração da fila registra 728, enquanto briefing e imprensa recente registram 730. Usamos 730 conforme identidade solicitada; confirmar a entrada operacional correta.
 - Reservas e delivery: Folha de agosto de 2026 diz que não são oferecidos; diretórios e cobertura de 2021 indicam delivery. Falta confirmação oficial recente. Não incluímos CTA de reserva nem pedido.
 - Takeaway/retirada: sem confirmação oficial recente; perguntar à casa.
-- Cardápio oficial completo: não encontrado nos links públicos oficiais lidos. Menu de usuários em diretório não prova atualização. Não há PDF ou menu inventado; CTA é explicitamente consulta por telefone.
+- Cardápio completo e preços: a QA final identificou o destaque oficial Cardápio em https://www.instagram.com/stories/highlights/18348390193178688/. O site agora oferece esse link, identificado como Instagram, e telefone como alternativa. Seu conteúdo integral, data e preços não puderam ser validados sem autenticação. Não reproduzimos preços, PDF ou menu de usuários.
 - Disponibilidade atual de todos os pratos, sobremesas, bebidas e preparos; fotos históricas não garantem a apresentação atual.
 - Autorização da empresa, direitos de fotografias, identidade visual definitiva e acessibilidade física precisam ser validados antes de uso institucional.
 
 ## INFERENCE: posicionamento e linguagem
 
 Brasa, bairro, conversa e mesa compartilhada sintetizam identidade oficial, fotos e cobertura. As chamadas criativas são redação original para a proposta, sem se passarem por citações da casa. A cor vermelha e a tipografia editorial são direção proposta, não identidade oficial validada.
+
+## VERIFIED: confirmação oficial na QA pública
+
+Em 07/10/2026, os botões da prévia abriram a fila com o título Entrar na Fila - Chimichurri Parrilla e formulário da casa, o Maps com o mesmo nome e endereço 730, e o Instagram oficial. A fila mostrava encerramento às 23h naquele momento; nenhuma inscrição foi enviada. A biografia visível confirmou os horários de terça a sábado. Destaques oficiais identificados: [Cardápio](https://www.instagram.com/stories/highlights/18348390193178688/), [FAQ](https://www.instagram.com/stories/highlights/17848113111631833/) e [Horários](https://www.instagram.com/stories/highlights/17906312060652821/). O convite de login limita leitura adicional, que não foi tratada como verificação de conteúdo.

@@ -8,3 +8,4 @@
 @media(max-width:390px){.header{gap:10px}.header-place{display:none}.hero h1{font-size:57px}.hero{min-height:620px}.hero-bottom{letter-spacing:.03em}.section-pad{padding-top:52px;padding-bottom:52px}.visit h2{font-size:60px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important;animation:none!important}}
 @media(prefers-reduced-motion:no-preference){.button:hover{transform:translateY(-1px)}}
+.hours-list{margin:18px 0 0}.hours-list>div{display:grid;grid-template-columns:1fr 1fr;gap:15px;padding:12px 0;border-bottom:1px solid #ffffff35;font-size:16px;line-height:1.45}.hours-list dt{font-weight:600}.hours-list dd{margin:0}.menu-content>.menu-phone{margin-top:15px;font-size:14px}.visit-detail .hours-list+.small-note{margin-top:20px}

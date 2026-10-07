@@ -6,9 +6,9 @@ Fotografias verificadas da casa, ritmo editorial próprio, protagonismo da parri
 
 ## Limites materiais
 
-NEEDS OWNER CONFIRMATION: horários e atendimento. A ausência de uma tabela definitiva é menos conveniente para quem está na rua, mas publicar informação conflitante como certa seria pior. Telefone e Instagram ficam próximos e nos atalhos.
+NEEDS OWNER CONFIRMATION: horários e atendimento. Terça a sábado foram confirmados na biografia oficial e aparecem na tabela. Domingo, segunda e feriados permanecem pendentes. Telefone e Instagram ficam próximos e nos atalhos.
 
-NEEDS OWNER CONFIRMATION: cardápio completo. A seleção visual não substitui o menu. O botão por telefone é honesto, porém acrescenta esforço. Um link fornecido pela casa permitiria uma melhoria direta sem alterar o desenho.
+NEEDS OWNER CONFIRMATION: cardápio completo. A seleção visual não substitui o menu. O botão abre o destaque oficial do Instagram. Sua leitura pode exigir login, e a data do conteúdo não foi confirmada. Telefone fica como alternativa. Um menu acessível sem autenticação seria uma melhoria direta.
 
 NEEDS OWNER CONFIRMATION: imagens. As fotografias reais são boas, mas várias são históricas e não têm licença aberta identificada. A proposta documenta a procedência e as condições pendentes. Para lançamento oficial, o restaurante deve fornecer assets autorizados.
 

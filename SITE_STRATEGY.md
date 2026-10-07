@@ -14,7 +14,7 @@ Hero e fila; parrilla e origem; seleção de pratos; hambúrguer com foto própr
 
 Desktop prioriza composição e ritmo; celular oferece cinco atalhos fixos para fila, horários, cardápio, chegar e Instagram. A fila sai diretamente para o serviço oficial. Nenhum formulário próprio coleta dados.
 
-A página não tenta converter através de uma reserva inexistente, de preços antigos ou de nota agregada. O CTA de cardápio explica que a consulta ocorre por telefone, sem sugerir um PDF disponível.
+A página não tenta converter através de uma reserva inexistente, de preços antigos ou de nota agregada. O CTA de cardápio abre o destaque oficial do Instagram, com telefone como alternativa. Não sugere um PDF disponível nem reproduz preços não verificados.
 
 ## Confiança
 
@@ -22,7 +22,7 @@ Preços não publicados. Fontes documentadas, fotos creditadas e disclaimer de c
 
 ## NEEDS OWNER CONFIRMATION
 
-Horários divergentes, entrada operacional 728/730, menu atual, regras de reservas/delivery/retirada, direitos das fotos e aprovação institucional. Essas lacunas não são preenchidas com fatos inventados.
+Horários de domingo, segunda e feriados divergentes, entrada operacional 728/730, menu atual, regras de reservas/delivery/retirada, direitos das fotos e aprovação institucional. Essas lacunas não são preenchidas com fatos inventados.
 
 ## Critérios de sucesso
 

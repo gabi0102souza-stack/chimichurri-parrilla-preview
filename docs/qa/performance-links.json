@@ -1,0 +1,122 @@
+{
+  "base": "https://gabi0102souza-stack.github.io/chimichurri-parrilla-preview/",
+  "status": 200,
+  "simulatedConditions": "390px; RTT 150ms; download 500 kB/s; CPU 4x",
+  "metrics": {
+    "status": "complete",
+    "lcp": 1384,
+    "cls": 0,
+    "resources": [
+      {
+        "name": "anton-latin.woff2",
+        "bytes": 18912
+      },
+      {
+        "name": "dm-sans-latin.woff2",
+        "bytes": 37232
+      },
+      {
+        "name": "styles.css",
+        "bytes": 4185
+      },
+      {
+        "name": "app.js",
+        "bytes": 664
+      },
+      {
+        "name": "brasa-720.avif",
+        "bytes": 26346
+      },
+      {
+        "name": "cortes-480.webp",
+        "bytes": 40702
+      }
+    ],
+    "bytes": 128041,
+    "navigation": {
+      "name": "https://gabi0102souza-stack.github.io/chimichurri-parrilla-preview/",
+      "entryType": "navigation",
+      "startTime": 0,
+      "duration": 1379.699999988079,
+      "navigationId": 10000,
+      "initiatorType": "navigation",
+      "deliveryType": "",
+      "nextHopProtocol": "h2",
+      "renderBlockingStatus": "non-blocking",
+      "contentType": "text/html",
+      "contentEncoding": "gzip",
+      "workerStart": 0,
+      "workerRouterEvaluationStart": 0,
+      "workerCacheLookupStart": 0,
+      "workerMatchedSourceType": "",
+      "workerFinalSourceType": "",
+      "redirectStart": 0,
+      "redirectEnd": 0,
+      "fetchStart": 1.199999988079071,
+      "domainLookupStart": 3.199999988079071,
+      "domainLookupEnd": 3.5,
+      "connectStart": 3.5,
+      "secureConnectionStart": 9.699999988079071,
+      "connectEnd": 21.099999964237213,
+      "requestStart": 21.19999998807907,
+      "responseStart": 161.5999999642372,
+      "firstInterimResponseStart": 0,
+      "finalResponseHeadersStart": 161.5999999642372,
+      "responseEnd": 200.19999998807907,
+      "transferSize": 4651,
+      "encodedBodySize": 4351,
+      "decodedBodySize": 12707,
+      "responseStatus": 200,
+      "serverTiming": [],
+      "unloadEventStart": 0,
+      "unloadEventEnd": 0,
+      "domInteractive": 265.69999998807907,
+      "domContentLoadedEventStart": 455.89999997615814,
+      "domContentLoadedEventEnd": 456.0999999642372,
+      "domComplete": 1379.300000011921,
+      "loadEventStart": 1379.5,
+      "loadEventEnd": 1379.699999988079,
+      "type": "navigate",
+      "redirectCount": 0,
+      "activationStart": 0,
+      "criticalCHRestart": 0,
+      "notRestoredReasons": null,
+      "confidence": {
+        "randomizedTriggerRate": 0.4994798,
+        "value": "low"
+      }
+    }
+  },
+  "external": [
+    {
+      "url": "https://q.odionisio.com/chimichurri-parrilla/queue/EXhZci0VciMt03qfjmJL",
+      "status": 200,
+      "finalUrl": "https://q.odionisio.com/chimichurri-parrilla/queue/EXhZci0VciMt03qfjmJL"
+    },
+    {
+      "url": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/onde-os-chefs-comem-com-erick-grossi-do-les-deux-magots-em-sao-paulo/",
+      "status": 200,
+      "finalUrl": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/onde-os-chefs-comem-com-erick-grossi-do-les-deux-magots-em-sao-paulo/"
+    },
+    {
+      "url": "https://linktr.ee/chimi_parrilla",
+      "status": 200,
+      "finalUrl": "https://linktr.ee/chimi_parrilla"
+    },
+    {
+      "url": "https://vejasp.abril.com.br/estabelecimento/chimichurri-parrilla/",
+      "status": 200,
+      "finalUrl": "https://vejasp.abril.com.br/estabelecimento/chimichurri-parrilla/"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Chimichurri+Parrilla+Av.+Professor+Alfonso+Bovero+730+Sao+Paulo",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=Chimichurri+Parrilla+Av.+Professor+Alfonso+Bovero+730+Sao+Paulo"
+    },
+    {
+      "url": "https://www.instagram.com/chimi_parrilla/",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/chimi_parrilla/"
+    }
+  ]
+}
